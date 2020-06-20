@@ -6,9 +6,9 @@ Version: 0.4b
 Depends: mobilesubstrate
 Filename: ./debs/com.iapps.ymplus_0.4b.deb
 Size: 5176
-MD5sum: af27edd698eb17252d49c6b67a32bf52
-SHA1: eb2d78a532711f20aae2623a907fc227dafd8654
-SHA256: a216b8ec64ddfd54868a7325c107a9ee1f6dae3be835f1f13762d5a9244875fe
+MD5sum: 15295d48ba64eac65de54cf09be122d3
+SHA1: 4c345ee310fa36ead7fad96cffd37c4ee011afdd
+SHA256: b3f5065e04d2639d3d563e1342493cce969d78eaebc8358e7996c9e2b2c17612
 Description: YM.Plus - взлом на подписку Plus музыкального сервиса Яндекс.Музыка. https://apps.apple.com/ru/app/яндекс-музыка-и-подкасты/id520797969
 Author: Anonym0uz & mdfurman <gumenyuk.d@icloud.com>
 Name: YM.Plus
