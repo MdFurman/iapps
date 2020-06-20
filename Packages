@@ -5,10 +5,8 @@ Architecture: iphoneos-arm
 Version: 0.3b
 Depends: mobilesubstrate
 Filename: debs//com.iapps.ymplus_0.3b.deb
-Size: 
-MD5sum: 
-SHA1: 
-SHA256: 
+Size: 5176
+MD5sum: eb2d78a532711f20aae2623a907fc227dafd8654
 Description: ѕолный взлом на музыкальный сервис яндекс.ћуызка. https://apps.apple.com/ru/app/€ндекс-музыка-и-подкасты/id520797969
 Name: ’ак на приложение яндекс.ћузыка
 Author: Anonym0uz & mdfurman <gumenyuk.d@icloud.com>
