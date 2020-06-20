@@ -2,13 +2,13 @@ Package: com.iapps.ymplus
 Section: Tweaks (Hacks)
 Maintainer: Anonym0uz & mdfurman
 Architecture: iphoneos-arm
-Version: 0.4b
+Version: 0.4b-7
 Depends: mobilesubstrate
-Filename: ./debs/com.iapps.ymplus_0.4b-1.deb
-Size: 5302
-MD5sum: 98fee6d626472ec0537162d9fae76501
-SHA1: eef49195944f2afb333bed64fc0312c1eb5c3d8c
-SHA256: 968e94cdf5a6600581f158d3caa4c1d5d12b44e495c1e171a4f24e8f450e753d
+Filename: ./debs/com.iapps.ymplus_0.4b-7_iphoneos-arm.deb
+Size: 5296
+MD5sum: cfc7f5130a3656e3c8b995c8f1cd1e69
+SHA1: 562bbfcfe11efc1be4633689d98c9b3b3fa3ec58
+SHA256: 5ee71525c4f97ab24138aff033599c70a1dd72b0df39a16c268508c62cb61a88
 Description: YM.Plus - взлом на подписку Plus музыкального сервиса Яндекс.Музыка. https://apps.apple.com/ru/app/яндекс-музыка-и-подкасты/id520797969
 Author: Anonym0uz & mdfurman <gumenyuk.d@icloud.com>
 Name: YM.Plus
