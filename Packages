@@ -36,9 +36,9 @@ Version: 1.0
 Depends: mobilesubstrate
 Filename: ./debs/com.iapps.infspro_1.0_iphoneos-arm.deb
 Size: 5430
-MD5sum: ea9579b9de08478ab9d23a572a756786
-SHA1: ae7707446df19546ac31123729605dc39863523e
-SHA256: 34ecef4413276b5d69fc13bdf0de55f17f324855a31b709a15af65e7cf212bc6
+MD5sum: 5885af29d48c7aab34c25a70b1a594f8
+SHA1: 46a48af0c32939ca5f1aec60043160ae87676ed1
+SHA256: 5034a7b9a9c1fc6aa704522ae5bbc3ba3591d36219729b56ba7ac810289d6639
 Description: Хак на Pro подписку медиаплеера Infuse.
 Author: mdfurman <gumenyuk.d@icloud.com>
 Name: Infuse Pro
