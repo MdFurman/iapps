@@ -12,3 +12,33 @@ SHA256: b3f5065e04d2639d3d563e1342493cce969d78eaebc8358e7996c9e2b2c17612
 Description: YM.Plus - взлом на подписку Plus музыкального сервиса Яндекс.Музыка. https://apps.apple.com/ru/app/яндекс-музыка-и-подкасты/id520797969
 Author: Anonym0uz & mdfurman <gumenyuk.d@icloud.com>
 Name: YM.Plus
+
+Package: com.iapps.adgpro
+Section: Tweaks (Hacks)
+Maintainer: mdfurman
+Architecture: iphoneos-arm
+Version: 1.0
+Depends: mobilesubstrate
+Filename: ./debs/com.iapps.adgpro_1.0.deb
+Size: 3096
+MD5sum: 37ac508bf558d6d8a6a6a39680f09512
+SHA1: 3d116d5550843e667de5abc8055f6d3b5950a7a7
+SHA256: f824ec024e438fca6a350552f79dd461740bc3b7be643034cd4a29917b2f653c
+Description: Взлом на Premium подписку приложения AdGuard.
+Author: mdfurman <gumenyuk.d@icloud.com>
+Name: AdGuard
+
+Package: com.iapps.infspro
+Section: Tweaks (Hacks)
+Maintainer: mdfurman
+Architecture: iphoneos-arm
+Version: 1.0
+Depends: mobilesubstrate
+Filename: ./debs/com.iapps.infspro_1.0.deb
+Size: 5402
+MD5sum: ea9579b9de08478ab9d23a572a756786
+SHA1: ae7707446df19546ac31123729605dc39863523e
+SHA256: 34ecef4413276b5d69fc13bdf0de55f17f324855a31b709a15af65e7cf212bc6
+Description: Хак на Pro подписку медиаплеера Infuse.
+Author: mdfurman <gumenyuk.d@icloud.com>
+Name: Infuse Pro
