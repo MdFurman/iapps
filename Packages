@@ -5,7 +5,7 @@ Architecture: iphoneos-arm
 Version: 0.4b
 Depends: mobilesubstrate
 Filename: ./debs/com.iapps.ymplus_0.4b.deb
-Size: 5176
+Size: 5308
 MD5sum: 15295d48ba64eac65de54cf09be122d3
 SHA1: 4c345ee310fa36ead7fad96cffd37c4ee011afdd
 SHA256: b3f5065e04d2639d3d563e1342493cce969d78eaebc8358e7996c9e2b2c17612
