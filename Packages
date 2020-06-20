@@ -2,9 +2,9 @@ Package: com.iapps.ymplus
 Section: Tweaks (Hacks)
 Maintainer: Anonym0uz & mdfurman
 Architecture: iphoneos-arm
-Version: 0.3b
+Version: 0.4b
 Depends: mobilesubstrate
-Filename: ./debs/com.iapps.ymplus_0.3b.deb
+Filename: ./debs/com.iapps.ymplus_0.4b.deb
 Size: 5176
 MD5sum: af27edd698eb17252d49c6b67a32bf52
 SHA1: eb2d78a532711f20aae2623a907fc227dafd8654
