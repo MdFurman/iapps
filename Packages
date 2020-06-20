@@ -4,7 +4,7 @@ Maintainer: Anonym0uz & mdfurman
 Architecture: iphoneos-arm
 Version: 0.3b
 Depends: mobilesubstrate
-Filename: debs//com.iapps.ymplus_0.3b.deb
+Filename: ./debs/com.iapps.ymplus_0.3b.deb
 Size: 5176
 MD5sum: eb2d78a532711f20aae2623a907fc227dafd8654
 Description: Полный взлом на музыкальный сервис Яндекс.Муызка. https://apps.apple.com/ru/app/яндекс-музыка-и-подкасты/id520797969
