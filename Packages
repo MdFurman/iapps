@@ -26,7 +26,7 @@ SHA1: 3d116d5550843e667de5abc8055f6d3b5950a7a7
 SHA256: f824ec024e438fca6a350552f79dd461740bc3b7be643034cd4a29917b2f653c
 Description: Взлом на Premium подписку приложения AdGuard.
 Author: mdfurman <gumenyuk.d@icloud.com>
-Name: AdGuard
+Name: AdGuard Pro
 
 Package: com.iapps.infspro
 Section: Tweaks (Hacks)
@@ -34,7 +34,7 @@ Maintainer: mdfurman
 Architecture: iphoneos-arm
 Version: 1.0
 Depends: mobilesubstrate
-Filename: ./debs/com.iapps.infspro_1.0.deb
+Filename: ./debs/com.iapps.infspro_1.0_iphoneos-arm.deb
 Size: 5402
 MD5sum: ea9579b9de08478ab9d23a572a756786
 SHA1: ae7707446df19546ac31123729605dc39863523e
